@@ -4,7 +4,7 @@
 
 Satyajit Puhan · Institute of Physics, Academia Sinica, Taipei
 
-*Work in progress, paper in preparation.*
+*I am doing this for fun.*
 
 The leading-twist vector and axial π⁺ → γ and K⁺ → γ transition distribution amplitudes (TDAs) are computed in the light-front quark model. The Gaussian wave functions are the ones that describe the pion and kaon decay constants, with no adjusted parameter.
 
